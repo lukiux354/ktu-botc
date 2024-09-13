@@ -6,4 +6,4 @@ Rolių rinkiniai naudojami tam, kad žaidėjai žinotų, kokios rolės gali egzi
 Originaliame oficialiame žaidime šiuo metu egzistuoja 3 skirtingi rolių rinkiniai, tačiau šio žaidimo žaidėjai jau ilgai kuria savo „custom“ (padarytus ranka) rinkinius tam, kad paįvairinti žaidimą, sukurti įdomių sąveikų (interactions) tarp skirtingų veikėjų, kurie oficialiuose rinkiniuose niekada nebūna kartu.
 
 # Sistemos paskirtis 
-turėti vieną vietą, kurioje visi žmonės gali kurti, talpinti ir rasti kitų žmonių sukurtus rolių rinkinius, dalintis patarimais ir vertinti vieni kitų „kūrinius“.
+Turėti vieną vietą, kurioje visi žmonės gali kurti, talpinti ir rasti kitų žmonių sukurtus rolių rinkinius, dalintis patarimais ir vertinti vieni kitų „kūrinius“.
